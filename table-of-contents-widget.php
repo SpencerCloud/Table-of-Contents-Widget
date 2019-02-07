@@ -1,6 +1,7 @@
 <?php
 /*
  * Plugin Name: Table of Contents Widget
+ * Plugin URI: https://github.com/SpencerCloud/Table-of-Contents-Widget
  * Description: An automatically generated table of contents for pages and posts that can be inserted into your theme's widget areas (works best in sidebars)
  * Version: 0.1
  * Author: Spencer Cloud
